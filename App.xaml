@@ -1,0 +1,9 @@
+﻿<Application x:Class="KB14388_XamDataChart_FormatLabel.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:KB14388_XamDataChart_FormatLabel"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
